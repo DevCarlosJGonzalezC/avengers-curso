@@ -2,4 +2,5 @@
 
 * Dr. Malito
 * Red Skull
-* Dr. Gonzalez
+* Dr. Doom
+* Ct. America
